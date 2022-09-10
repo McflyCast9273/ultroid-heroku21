@@ -6,4 +6,4 @@ pip3 install -r res*/st*/op*
 clear
 pip3 -V
 mediainfo
-bash startup
+python(3) -m pyUltroid
